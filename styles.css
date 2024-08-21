@@ -1,29 +1,31 @@
 body{
     font-family: League Spartan;
-    color: #003554;
-    background-image: linear-gradient(#A9DEF9, #E4C1F9);
+    color: #1D3557;
+    background-image: url(images/background.jpg);
+    background-size: contain;
     text-align: center;
-    text-shadow: 0 0 1px #003554;
 }
 #face{
     width: 100%;
-    border-radius: 10px;
-    border: 3px solid #003554;
+    border: 3px solid #1D3557;
+    border-radius: 8px;
 }
-.gif-section{
-    margin: 70px;
-}
+
 h1{
-    color: whitesmoke;
-    text-shadow: 3px 3px 1px #003554;
-    font-size: 40px;
+    color: #E63946;
+    text-shadow: 2px 2px 0 #1D3557;
+}
+
+.gif-section{
+    margin: 80px 50px;
 }
 .gif{
-    width: 400px;
-    border-radius: 13px;
-    border: 6px solid whitesmoke;
+    width: 370px;
+    border: 6px solid #277da1;
+    border-radius: 15px;
 }
+
 #footer{
-    padding: 0 150px;
-    line-height: 2;
+    padding: 40px;
+    line-height: 1.5;
 }
