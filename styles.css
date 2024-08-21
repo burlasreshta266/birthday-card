@@ -1,0 +1,29 @@
+body{
+    font-family: League Spartan;
+    color: #003554;
+    background-image: linear-gradient(#A9DEF9, #E4C1F9);
+    text-align: center;
+    text-shadow: 0 0 1px #003554;
+}
+#face{
+    width: 100%;
+    border-radius: 10px;
+    border: 3px solid #003554;
+}
+.gif-section{
+    margin: 70px;
+}
+h1{
+    color: whitesmoke;
+    text-shadow: 3px 3px 1px #003554;
+    font-size: 40px;
+}
+.gif{
+    width: 400px;
+    border-radius: 13px;
+    border: 6px solid whitesmoke;
+}
+#footer{
+    padding: 0 150px;
+    line-height: 2;
+}
