@@ -20,12 +20,11 @@ h1{
     margin: 80px 50px;
 }
 .gif{
-    width: 370px;
+    width: 510px;
     border: 6px solid #277da1;
     border-radius: 15px;
 }
 
 #footer{
     padding: 40px;
-    line-height: 1.5;
 }
