@@ -6,9 +6,9 @@ body{
     text-align: center;
 }
 #face{
-    width: 100%;
+    width: 200px;
+    border-radius: 50%;
     border: 3px solid #1D3557;
-    border-radius: 8px;
 }
 
 h1{
@@ -20,7 +20,7 @@ h1{
     margin: 80px 50px;
 }
 .gif{
-    width: 550px;
+    width: 450px;
     border: 6px solid #277da1;
     border-radius: 15px;
 }
